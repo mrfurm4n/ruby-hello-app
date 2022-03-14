@@ -232,10 +232,10 @@ DEPENDENCIES
   debug
   importmap-rails
   jbuilder
-  pg (= 0.17.1)
+  pg
   puma (~> 5.0)
   rails (~> 7.0.2, >= 7.0.2.3)
-  rails_12factor (= 0.0.2)
+  rails_12factor
   selenium-webdriver
   sprockets-rails
   sqlite3 (~> 1.4)
